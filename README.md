@@ -5,6 +5,7 @@
 </head>
 <body>
     <header>
+         background-color: #b3e0ff
         <h1>Best Sitcom Shows</h1>
     </header>
     <main>
@@ -26,8 +27,7 @@
 /* styles.css */
 
 body {
-    background-color: #b3e0ff;
-}
+   
 
 /* Style the header */
 header {
